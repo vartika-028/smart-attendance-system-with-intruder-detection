@@ -23,3 +23,5 @@ The project utilizes various Python libraries for face recognition, data storage
 - `datetime` – For logging attendance timestamps.
 - `openpyxl` – For handling Excel operations.
 - `Tkinter` – For GUI implementation.
+- 
+![Screenshot 2025-03-26 020401](https://github.com/user-attachments/assets/9ad06fe9-5d80-45cc-83d4-88d554fbb80c)
