@@ -6,7 +6,6 @@ The Smart Attendance System with Intruder Detection is a computer vision-based p
 # Features
 
 Face Recognition for Attendance: Recognizes registered users and marks their attendance.
-
 Intruder Detection: Detects unregistered faces and takes snapshots.
 Excel Data Storage: Stores attendance records in an Excel file.
 GUI for User Interaction: Allows users to register faces, view attendance, and check intruder logs.
